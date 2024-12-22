@@ -1,0 +1,9 @@
+.home-container {
+ 
+    background-color: #243642;
+   
+    color: white; 
+    min-height: 100vh; 
+    padding: 20px;
+    padding-left:100px;
+  }
